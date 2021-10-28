@@ -1,6 +1,6 @@
 # HttpClient_API_Automation
 
-Try to impplement the, HttpClient Api process, HttpClient is a low level client for simplifying Http Communication, 
+Try to implement the, HttpClient Api process, HttpClient is a low level client for simplifying Http Communication, 
 In-fact HttpClient is used by REST Assured under the hood for Http communication.
 To Run the each testcases you have to run the each test cases manually using TestNG suit.
 
@@ -10,6 +10,9 @@ Selenium, free automating testing frame work and the Scripting language used is 
 for pushing the code to the Repo. Git bash command line is used.
 Code reusability can be improved. 
 
+
+* TO IMPROVE IN FUTURE *
 /* Still the  Projet has some errors but you can see the implementation */
 for one test case i also used the restAssured to see how both works. 
 we can do lots of improvment in the framework level.
+can use TestNG, Allure reporting, Serenity to build a robust framework.
